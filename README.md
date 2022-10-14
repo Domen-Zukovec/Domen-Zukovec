@@ -1,7 +1,7 @@
 -  Hi, I’m @Domen-Zukovec
--  I’m interested in data science and generaly in any kind of programing or computer work :D
+-  I’m interested in any kind of programing or computer work :D
 -  I’m currently learning Computer and Information Science at University of Ljubljana
--  I’m looking to collaborate on any fun and interesting project, preferably AI and Computer Vision based
+-  I’m looking to collaborate on any fun and interesting projects
 -  How to reach me: zukovec22@gmail.com || https://www.linkedin.com/in/domen-zukovec/
 
 <!---
